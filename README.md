@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @davidsarj
+- 👀 I’m interested in data science stuff and geology
+- 🌱 I’m currently learning SQL and Pandas library in the Udacity Nanodegree Program
+- 📫 How to reach me: davidsingharj@gmail.com
